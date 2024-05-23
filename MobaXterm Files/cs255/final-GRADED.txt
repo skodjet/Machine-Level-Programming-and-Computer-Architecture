@@ -1,0 +1,12 @@
+Total: 131
+
+
+convert:
+    Note: 0x80000000 is easier to use than -2147483648 (no deduction)
+    uses arithmetic in comparison during conversion (-3pts)
+
+fib:
+    does not add local variables at beginning of function call (-8pts)
+
+lines:
+    bad allocation of size 1 which leads to writing outside of allocated memory (-8pts)

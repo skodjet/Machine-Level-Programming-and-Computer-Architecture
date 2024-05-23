@@ -1,0 +1,5 @@
+Total: 85
+
+Parameters passed in the wrong order (-10pts)
+
+Doesn't implement local variable r in the start of the gcd function (-5pts)
